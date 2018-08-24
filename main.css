@@ -1,0 +1,6 @@
+ul{
+    background-color: Blue;
+}
+ul, img {
+    border: 10px solid purple;
+}
